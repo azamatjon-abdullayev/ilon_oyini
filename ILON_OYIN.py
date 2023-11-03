@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import *                                                                      #by Azamatjon
 import random
 
 GAME_WIDTH = 700 #oyin eni
